@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd year student at Epitech Paris<br>🧑🏻‍🏫 Teaching assistant for 1st/2nd year students<br>📚 Currently exploring Cybersecurity and Blockchain<br>🎮 Building a video game<br>🌟 Passionate about independence and open-source
+🎓 3rd year student at Epitech Paris<br>🧑🏻‍🏫 Teaching assistant for 1st/2nd year students<br>🎮 Building a game engine<br>📚 Currently exploring Cybersecurity and Blockchain
 
 # 💻 Tech Stack:
 ### Languages I love
@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📊 Github stats
-![](https://nirzak-streak-stats.vercel.app/?user=eto-NaN&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eto-NaN&theme=dark&hide_border=true)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eto_tech)
