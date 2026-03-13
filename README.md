@@ -1,6 +1,6 @@
 > Always grinding — sometimes solo, sometimes with the crew.
 
-<table>
+<table border="0">
 <tr>
 <td valign="top">
 
