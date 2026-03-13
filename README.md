@@ -5,8 +5,8 @@
 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img src="./gabimaru-2-removebg-preview.png" align="right" width="35%" />
-
 [<img width="55%" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=eto-nan&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
 [<img width="55%" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
+
+<img src="./gabimaru-2-removebg-preview.png" align="right" width="35%" />
