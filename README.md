@@ -1,4 +1,4 @@
-<img src="./gabimaru-2-removebg-preview.png" align="right" width="35%" />
+<img src="./gabimaru-2-removebg-preview.png" align="bottom-right" width="35%" />
 
 > Always grinding — sometimes solo, sometimes with the crew.
 
