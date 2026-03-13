@@ -1,13 +1,15 @@
-# 💫 About Me:
-🎓 3rd year student at Epitech Paris<br>🧑🏻‍🏫 Teaching assistant for 1st/2nd year students<br>🎮 Building a game engine<br>📚 Currently exploring Cybersecurity and Blockchain
+> Always grinding — sometimes solo, sometimes with the crew.  
+> _Each project helps me grow, sharpen my thinking, and stay grounded in what i build._
 
-# 💻 Tech Stack:
-### Languages I love
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+> _Appreciate you following along._
 
-### Also familiar with
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eto_tech)
+[<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/eto-nan/metrics/master/metrics.classic.svg">](#)
+
+[<img align="right" width="390" alt="🦇" src="https://raw.githubusercontent.com/eto-nan/metrics/master/metrics.plugin.wakatime.svg">](#)
+
+[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=eto-nan&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
+
+[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
+
+[<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
