@@ -5,8 +5,8 @@
 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=eto-nan&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
+[<img alt="🦇" src="https://github-readme-stats.vercel.app/api?username=eto-nan&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
-[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
+[<img alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
 [<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
