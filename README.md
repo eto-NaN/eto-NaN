@@ -9,4 +9,4 @@
 
 [<img alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
-[<img align="right" width="410" alt="🦇" src="https://github.com/user-attachments/assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
+[<img align="right" width="410" alt="🦇" src="![gabimaru](https://github.com/user-attachments/assets/a069ca2d-bf4a-44e5-a028-6149a6379332)assets/e4e2d8cc-8956-4f03-bdf0-63ead880c855">](#)
