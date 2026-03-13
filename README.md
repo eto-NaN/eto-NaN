@@ -1,4 +1,8 @@
-> Always grinding — sometimes solo, sometimes with the crew.  
+> Always grinding — sometimes solo, sometimes with the crew.
+
+<table>
+<tr>
+<td valign="top">
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -9,4 +13,11 @@
 
 [<img alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
+</td>
+<td valign="top" align="right">
+
 ![gabimaru](./gabimaru-2-removebg-preview.png)
+
+</td>
+</tr>
+</table>
