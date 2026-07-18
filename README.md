@@ -19,6 +19,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 data-importer="text" align="center">My favorites languages (click on it to view my projects)</h3>
 
 ###
