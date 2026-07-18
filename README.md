@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h3>
 
 ###
