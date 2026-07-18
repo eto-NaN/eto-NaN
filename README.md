@@ -3,6 +3,8 @@
 ###
 
 <p data-importer="text" align="center">I'm interested in any projects contributing to <strong>open-source</strong>, <strong>decentralization</strong> and <strong>data privacy</strong>.
+Currently working alone on small personal projects such as a network library in Rust and my portfolio.
+With mt crew, we are building a web app that will allow roleplay games players to live their best adventures online as they could do offline.
 
 ###
 <br clear="both">
@@ -12,7 +14,7 @@
 ###
 
 <div align="center">
-<a href="https://github.com/TrueMoonn/GameEngine"><img height="35" alt="🦇" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" href></a>
+<a href="https://github.com/TrueMoonn/Network"><img height="35" alt="🦇" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" href></a>
 <a href="https://github.com/JulesDELTEIL/TrantorEvolution"><img height="35" alt="🦇" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" href></a>
 <a href="https://github.com/eto-NaN/chess-analyzer"><img height="35" alt="🦇" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" href></a>
 <a href="https://github.com/KongKorporation/Kong-lang"><img height="35" alt="🦇" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" href></a>
