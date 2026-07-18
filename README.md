@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="center">I'm interested in any projects contributing to <strong>open-source</strong>, <strong>decentralization</strong> and <strong>data privacy</strong>.
 
 ###
