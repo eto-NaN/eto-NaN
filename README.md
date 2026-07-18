@@ -23,12 +23,13 @@
 
 <h3 data-importer="text" align="center">My favorites languages (click on it to view my projects)</h3>
 
+<div align="center">
 [<a href="https://github.com/TrueMoonn/GameEngine"><img height="35" alt="🦇" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" href></a>](#)
 [<a href="https://github.com/JulesDELTEIL/TrantorEvolution"><img height="35" alt="🦇" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" href></a>](#)
 [<a href="https://github.com/eto-NaN/chess-analyzer"><img height="35" alt="🦇" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" href></a>](#)
-
 [<a href="https://github.com/KongKorporation/Kong-lang"><img height="35" alt="🦇" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" href></a>](#)
 [<a href="https://github.com/eto-NaN/protocol-codegen-cpp"><img height="35" alt="🦇" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" href></a>](#)
+</div>
 
 ###
 
