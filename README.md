@@ -1,12 +1,54 @@
-> Always grinding — sometimes solo, sometimes with the crew.
+<h2 data-importer="text" align="center">Hi ! My name is Pierre Pruvost and I'm a developer from France !</h2>
 
-### Tech Stack
-[<a href="https://github.com/TrueMoonn/GameEngine"><img width="10%" alt="🦇" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" href></a>](#) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+###
 
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br clear="both">
 
-<img src="./gabimaru.png" align="right" width="35%" />
+<p data-importer="text" align="center">I'm interested in any projects contributing to <strong>open-source</strong>, <strong>decentralization</strong> and <strong>data privacy</strong>.<br>(Feel free to contact me from the ways below by clicking on it)</p>
 
-[<img width="55%" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=eto-nan&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
+###
 
-[<img width="55%" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=eto-nan&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <a href="mailto:pierrepru03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pierre-pruvost-132121243/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 data-importer="text" align="center">My favorites languages (click on it to view my projects)</h3>
+
+[<a href="https://github.com/TrueMoonn/GameEngine"><img height="35" alt="🦇" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" href></a>](#)
+[<a href="https://github.com/JulesDELTEIL/TrantorEvolution"><img height="35" alt="🦇" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" href></a>](#)
+[<a href="https://github.com/eto-NaN/chess-analyzer"><img height="35" alt="🦇" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" href></a>](#)
+
+[<a href="https://github.com/KongKorporation/Kong-lang"><img height="35" alt="🦇" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" href></a>](#)
+[<a href="https://github.com/eto-NaN/protocol-codegen-cpp"><img height="35" alt="🦇" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" href></a>](#)
+
+###
+
+<br clear="both">
+
+<h3 data-importer="text" align="center">My stats</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/eto-nan/eto-nan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=eto-nan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="180" src="https://animesher.com/orig/0/40/403/4037/animesher.com_studio-ghibli-totoro-transparents-403754.gif"  />
+</div>
+
+###
