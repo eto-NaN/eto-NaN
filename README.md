@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi ! My name is Pierre Pruvost and I'm a developer from France !</h1>
+<h2 data-importer="text" align="center">Hi ! My name is Pierre Pruvost and I'm a developer from France !</h2>
 
 ###
 
