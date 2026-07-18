@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">My favorites languages (click on it to view my projects)</h3>
+<h3 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">My stats</h3>
+<h3 data-importer="text" align="center">Stats</h3>
 
 ###
 
@@ -51,7 +51,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="180" src="[https://animesher.com/orig/0/40/403/4037/animesher.com_studio-ghibli-totoro-transparents-403754.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXhnNWwwZDVpdm5raTdzY3psejk4bHM2eWFwd3g1MjlkN3ZtNTV6OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif)"  />
+  <img data-importer="image" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXhnNWwwZDVpdm5raTdzY3psejk4bHM2eWFwd3g1MjlkN3ZtNTV6OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif"  />
 </div>
 
 ###
