@@ -4,7 +4,7 @@
 
 <p data-importer="text" align="center">I'm interested in any projects contributing to <strong>open-source</strong>, <strong>decentralization</strong> and <strong>data privacy</strong>.
 Currently working alone on small personal projects such as a network library in Rust and my portfolio.
-With mt crew, we are building a web app that will allow roleplay games players to live their best adventures online as they could do offline.
+With the crew, we are building a web app that will allow roleplay games players to live their best adventures online as they could do offline.
 
 ###
 <br clear="both">
