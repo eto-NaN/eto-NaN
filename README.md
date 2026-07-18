@@ -1,12 +1,13 @@
-<h2 data-importer="text" align="center">Hi ! My name is Pierre Pruvost and I'm a developer from France !</h2>
+<h1 data-importer="text" align="center">Hi ! My name is Pierre Pruvost and I'm a developer from France !</h1>
 
 ###
 
 <p data-importer="text" align="center">I'm interested in any projects contributing to <strong>open-source</strong>, <strong>decentralization</strong> and <strong>data privacy</strong>.
 
 ###
+<br clear="both">
 
-<h3 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h3>
+<h2 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h2>
 
 ###
 
@@ -22,7 +23,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Stats</h3>
+<h2 data-importer="text" align="center">Stats</h2>
 
 ###
 
@@ -36,7 +37,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl2YWdybGNtbnVobHI0Y3hrMTI2MHNtMzczcjRpN21nOTNtNDFxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"  />
+  <img data-importer="image" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl2YWdybGNtbnVobHI0Y3hrMTI2MHNtMzczcjRpN21nOTNtNDFxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"  />
 </div>
 
 ###
