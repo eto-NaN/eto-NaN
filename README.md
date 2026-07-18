@@ -51,7 +51,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXhnNWwwZDVpdm5raTdzY3psejk4bHM2eWFwd3g1MjlkN3ZtNTV6OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/oktW1eBGpHOoM/giphy.gif"  />
+  <img data-importer="image" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl2YWdybGNtbnVobHI0Y3hrMTI2MHNtMzczcjRpN21nOTNtNDFxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"  />
 </div>
 
 ###
