@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Stats</h3>
+<h3 data-importer="text" align="center">My stats</h3>
 
 ###
 
