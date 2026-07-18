@@ -28,7 +28,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eto-nan&show_icons=true&theme=transparent" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=eto-nan&show_icons=true&theme=transparent&hide_border=false&border_radius=5" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=eto-nan&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
