@@ -7,7 +7,7 @@
 ###
 <br clear="both">
 
-<h2 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h2>
+<h3 data-importer="text" align="center">Favorites languages (click on it to view my projects)</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">Stats</h2>
+<h3 data-importer="text" align="center">Stats</h3>
 
 ###
 
